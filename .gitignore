@@ -1,4 +1,5 @@
 
-rom1.nds
-rom1.sav
+*.nds
+*.sav
 *.aseprite
+/NARCs
