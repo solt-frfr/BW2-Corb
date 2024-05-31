@@ -3,14 +3,13 @@ Corbin in Pokemon Black 2 / White 2
 
 ### Todo
 
-- [ ] Sprites in models
 - [ ] Trainer Card
   - [ ] Palettes
   - [ ] Sprite  
 
 ### In Progress
 
-- [ ] Fishing Sprites 
+- [ ] Sprites in models
 
 ### Done ✓
 
@@ -25,3 +24,4 @@ Corbin in Pokemon Black 2 / White 2
 - [x] HM Sprites
 - [x] Pokemon Center Sprites
 - [x] Tightrope Sprites
+- [x] Fishing Sprites
