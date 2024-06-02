@@ -4,10 +4,6 @@ Corb in Pokemon Black 2 / White 2
 ### Todo
 
 - [ ] Gender Select Sprites
-- [ ] a030.narc
-- [ ] Trainer Card
-  - [ ] Palettes
-  - [ ] Sprite  
 
 ### In Progress
 
@@ -28,3 +24,5 @@ Corb in Pokemon Black 2 / White 2
 - [x] Tightrope Sprites
 - [x] Fishing Sprites
 - [x] Misc. Sprites in models
+- [X] a030.narc
+- [X] Trainer Card
